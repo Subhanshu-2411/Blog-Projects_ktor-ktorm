@@ -88,3 +88,8 @@ Content-Type: application/json
 GET http://0.0.0.0:3536/test
 Authorization: Bearer {{auth_token}}
 ```
+
+### LINK FOR PROJECT
+```ssh
+https://proandroiddev.com/developing-rest-apis-with-ktor-ba7a1dac6b23
+```
