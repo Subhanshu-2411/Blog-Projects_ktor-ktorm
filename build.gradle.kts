@@ -36,7 +36,7 @@ dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")
 
     implementation("org.ktorm:ktorm-core:${ktorm_version}")
-    implementation("mysql:mysql-connector-java:8.0.26")
+    implementation("mysql:mysql-connector-java:8.0.28")
     implementation("org.mindrot:jbcrypt:0.4")
 
     implementation("io.insert-koin:koin-ktor:$koin_version")
